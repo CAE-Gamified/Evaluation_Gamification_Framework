@@ -1,2 +1,2 @@
 # Evaluation_Gamification_Framework
-Evaluation of gamification framework
+Go to [wiki] (https://github.com/CAE-Gamified/Evaluation_Gamification_Framework/wiki)
